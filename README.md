@@ -125,9 +125,7 @@ public class NikhitaKappalaguddi extends FullStackDeveloper {
   <img src="https://streak-stats.demolab.com?user=Nikhita-k&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikhita-k&theme=algolia&no-frame=true&margin-w=8" />
-</p>
+
 
 ## 📅 Contribution graph
 
