@@ -40,7 +40,7 @@ java
 public class NikhitaKappalaguddi extends FullStackDeveloper {
 
     String name        = "Nikhita Kappalaguddi";
-    String degree      = "MCA — [Your University Name], 2024";
+    String degree      = "MCA — [Rani Channamma University Belagvi], 2025";
     String location    = "Bengaluru, Karnataka, India";
     boolean openToWork = true;
 
