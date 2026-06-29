@@ -1,4 +1,4 @@
-# Hi, I'm Nikhita I Kappalaguddi
+# Hi, I'm Nikhita K
 
 ## Full Stack Developer | Java Developer | MCA Graduate
 
