@@ -115,29 +115,39 @@ public class NikhitaKappalaguddi extends FullStackDeveloper {
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_NEW_USERNAME&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" alt="Nikhita's GitHub stats"/>
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NEW_USERNAME&layout=compact&langs_count=7&theme=merko&hide_border=true" alt="Top languages"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nikhita-k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhita-k&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_NEW_USERNAME&theme=merko&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Nikhita-k&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_NEW_USERNAME&theme=algolia&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Nikhita-k&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhita-k&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ## 📅 Contribution graph
 
