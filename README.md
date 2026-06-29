@@ -114,16 +114,20 @@ public class NikhitaKappalaguddi extends FullStackDeveloper {
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nikhita-k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nikhita-k&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhita-k&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhita-k&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nikhita-k&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Nikhita-k&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nikhita-k&theme=algolia&no-frame=true&margin-w=8&column=7"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikhita-k&theme=algolia&no-frame=true&margin-w=8" />
+</p>
 
 ## 📅 Contribution graph
 
